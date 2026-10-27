@@ -1,0 +1,7 @@
+epoch=100,dropout=0,lr=1e-4
+seed=41 accuracy=0.51
+seed=42 accuracy=0.82
+seed=43 accuracy=0.68
+seed=44 accuracy=0.62
+seed=45 accuracy=0.68
+mean=0.66,range=0.31,standard deviation=0.11
